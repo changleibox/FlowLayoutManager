@@ -1,4 +1,5 @@
 # FlowLayoutManager
+[![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://github.com/changleibox/FlowLayoutManager)
 
 ### 水平模式
 ![github](https://github.com/changleibox/FlowLayoutManager/blob/master/FlowLayoutManager2.jpg)
