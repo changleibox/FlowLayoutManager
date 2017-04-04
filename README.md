@@ -1,6 +1,6 @@
 # FlowLayoutManager
 
-### Simple
+## Simple
 
 ```java
   FlowLayoutManager manager = (FlowLayoutManager) recyclerView.getLayoutManager();
