@@ -1,7 +1,7 @@
 # FlowLayoutManager 
 [![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://github.com/changleibox/FlowLayoutManager)<br>
 
-这是一个实现流式布局的LayoutManager，配合RecyclerView使用，可实现标签效果；目前的问题是没有实现View的缓存，以后再补吧。
+这是一个自定义实现流式布局的**LayoutManager**，配合**RecyclerView**使用，可实现**标签**效果；目前的问题是没有实现View的缓存，以后再补吧。
 
 ## 代码示例
 
@@ -12,14 +12,14 @@
 ```
 
 ## 下载与安装
-    下载[zip](https://github.com/changleibox/FlowLayoutManager/releases/tag/v1.0.0)。
+    下载[.zip](https://github.com/changleibox/FlowLayoutManager/releases/tag/v1.0.0)。
     
 ## 项目运行效果
 
-### 水平模式
+#### 水平模式
 <img width="324" height="574" src="https://github.com/changleibox/Images/raw/master/FlowLayoutManager2.jpg">
 
-### 垂直模式
+#### 垂直模式
 <img width="324" height="574" src="https://github.com/changleibox/Images/raw/master/FlowLayoutManager1.jpg">
 
 ## 参与者介绍
