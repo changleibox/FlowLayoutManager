@@ -2,10 +2,10 @@
 [![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://github.com/changleibox/FlowLayoutManager)
 
 ### 水平模式
-![github](https://github.com/changleibox/Images/raw/master/FlowLayoutManager2.jpg)
+<img width="324" height="574" src="https://github.com/changleibox/Images/raw/master/FlowLayoutManager2.jpg">
 
 ### 垂直模式
-![github](https://github.com/changleibox/Images/raw/master/FlowLayoutManager1.jpg)
+<img width="324" height="574" src="https://github.com/changleibox/Images/raw/master/FlowLayoutManager1.jpg">
 
 ## Simple
 
