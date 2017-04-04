@@ -11,6 +11,9 @@
   manager.setOrientation(FlowLayoutManager.HORIZONTAL);
 ```
 
+## 下载与安装
+    下载[zip](https://github.com/changleibox/FlowLayoutManager/releases/tag/v1.0.0)。
+    
 ## 项目运行效果
 
 ### 水平模式
