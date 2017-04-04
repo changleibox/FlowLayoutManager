@@ -1,13 +1,9 @@
-# FlowLayoutManager
-[![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://github.com/changleibox/FlowLayoutManager)
+# FlowLayoutManager 
+[![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://github.com/changleibox/FlowLayoutManager)<br>
 
-### 水平模式
-<img width="324" height="574" src="https://github.com/changleibox/Images/raw/master/FlowLayoutManager2.jpg">
+这是一个实现流式布局的LayoutManager，配合RecyclerView使用，可实现标签效果；目前的问题是没有实现View的缓存，以后再补吧。
 
-### 垂直模式
-<img width="324" height="574" src="https://github.com/changleibox/Images/raw/master/FlowLayoutManager1.jpg">
-
-## Simple
+## 代码示例
 
 ```java
   FlowLayoutManager manager = (FlowLayoutManager) recyclerView.getLayoutManager();
@@ -15,6 +11,17 @@
   manager.setOrientation(FlowLayoutManager.HORIZONTAL);
 ```
 
+## 项目运行效果
+
+### 水平模式
+<img width="324" height="574" src="https://github.com/changleibox/Images/raw/master/FlowLayoutManager2.jpg">
+
+### 垂直模式
+<img width="324" height="574" src="https://github.com/changleibox/Images/raw/master/FlowLayoutManager1.jpg">
+
+## 参与者介绍
+    项目由[@常磊](https://github.com/changleibox)个人开发，如有问题，欢迎指出，邮箱changleibox@sina.com。
+    
 ## License
     Copyright © 2017 CHANGLEI. All rights reserved.
 
