@@ -1,5 +1,11 @@
 # FlowLayoutManager
 
+### 水平模式
+![image](https://github.com/changleibox/FlowLayoutManager/blob/master/FlowLayoutManager2.jpg)
+
+### 垂直模式
+![image](https://github.com/changleibox/FlowLayoutManager/blob/master/FlowLayoutManager1.jpg)
+
 ## Simple
 
 ```java
